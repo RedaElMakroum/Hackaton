@@ -392,7 +392,7 @@ section
 }
 .section_title
 {
-	margin-top: 7px;
+	margin-top: 0px;
 }
 
 /*********************************
@@ -997,10 +997,10 @@ section
 }
 .intro_text
 {
-	max-width: 770px;
+	max-width: 1000px;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 18px;
+	margin-top: 36px;
 }
 .intro_text p
 {
@@ -1248,8 +1248,8 @@ section
 .speakers
 {
 	background: #f5f8fb;
-	padding-top: 101px;
-	padding-bottom: 103px;
+	padding-top: 0px;
+	padding-bottom: 20px;
 }
 .speakers_row
 {
